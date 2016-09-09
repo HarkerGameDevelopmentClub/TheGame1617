@@ -1,4 +1,4 @@
 # TheGame1617
-This is the repository for the game that the club will be mainly working on this year.
+This is the game we are going to be building throughout the Schoolyear in 2016-2017.
 
-Go to the 'Wiki' tab to see current plans.
+Go to the 'Wiki' for more information.
