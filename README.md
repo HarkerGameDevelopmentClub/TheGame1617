@@ -1,4 +1,4 @@
 # TheGame1617
-Starter package if we decide to to the RPG thing
+This is the repository for the game that the club will be mainly working on this year.
 
-Go to the 'Wiki' tab to see current plans
+Go to the 'Wiki' tab to see current plans.
