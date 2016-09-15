@@ -1,6 +1,7 @@
 package sprites;
 
 import images.Image;
+import javafx.scene.canvas.GraphicsContext;
 
 /**
  * @author Adriano Hernandez
@@ -26,7 +27,7 @@ public abstract class Sprite {
 	private String $name;
 	
 	//display
-	abstract void draw();
+	abstract void draw(GraphicsContext _gc);
 
 	////getters and setters////
 	
