@@ -27,7 +27,7 @@ public abstract class Sprite {
 	private String $name;
 	
 	//display
-	abstract void draw(GraphicsContext $gc);
+	abstract void draw(GraphicsContext _gc);
 
 	////getters and setters////
 	
