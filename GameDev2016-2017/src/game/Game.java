@@ -15,9 +15,9 @@ import javafx.stage.Stage;
  * @version 1.0 alpha
  * @date 11 September 2016
  ****************************
- * This is the main entrypoint of the program.
+ * This is the main entrypoint of the program, and the global implementation code.
  */
-public class Main extends Application {
+public class Game extends Application {
 
 	//default window params
 	
